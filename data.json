@@ -1,0 +1,52 @@
+{
+  "Matemática": {
+    "Matemática Básica": "https://www.youtube.com/watch?v=az6OYFS7AUA&list=PLTPg64KdGgYgFpOFt2TETLdEuBB4fvxxf",
+    "Noções de Estatística": "https://www.youtube.com/watch?v=gibWiImVcOU&list=PL-LPJn0YTIEGuhRXW8TMsrwVvP9PvKy7Q",
+    "Conjuntos": "https://www.youtube.com/playlist?list=PLqDHcLUHag2f8wcFKIQ1dQ540rf8l8xGt",
+    "Funções": "https://www.youtube.com/watch?v=SPZqQ5qn3P0&list=PL6oFLDTrOyYiNx4HmlLQakGHTSizaCAIW",
+    "Geometria Plana": "https://www.youtube.com/watch?v=0CnUdzmpO8E&list=PLTPg64KdGgYhy8stGM4z2_Hzb3zTfA77Z",
+    "Trigonometria": "https://www.youtube.com/watch?v=4sTUs4ll3dI&list=PLEfwqyY2ox86JU-fviQa08fMH67W6oAKo",
+    "Geometria Espacial": "https://www.youtube.com/watch?v=v_PQnBk-8Mc&list=PLEfwqyY2ox87GYPpLcP1kv2Nt9xu0oBTy",
+    "Sequências": "https://www.youtube.com/playlist?list=PL8Oo5W5s-R0oPL7Q-1IDMuuDJMR-KO4K6",
+    "Análise Combinatória e Probabilidade": "https://www.youtube.com/watch?v=ZuukDbf4IY0&list=PL-LPJn0YTIEGvQsNqNbLt2FZ92QKOy9SJ",
+    "Matrizes e Sistemas Lineares": "https://www.youtube.com/watch?v=lZ9onrdpusA&list=PLEfwqyY2ox868TPa8vjL-QPfQlmtqRGa5",
+    "Geometria Analítica I": "https://www.youtube.com/playlist?list=PL-92zipZF0l3vRiP6UOwFXypIzNMwoeeF",
+    "Geometria Analítica II": "https://www.youtube.com/playlist?list=PL-92zipZF0l3PL9cHnvPdqq-2RnlwAqwz",
+    "Polinômios": "https://www.youtube.com/watch?v=RevbMgyMQmg&list=PLEfwqyY2ox84iIVoCHP8JjObsXQtVjh2k",
+    "Binômio de Newton": "https://www.youtube.com/watch?v=YPCemH1cCYw&list=PL8x1NTjJwLLzdvCpoWEjhm3sGo_PcvdfX",
+    "Números Complexos": "https://www.youtube.com/watch?v=7E7mypyLyoM&list=PLEfwqyY2ox853NZdP0oJNXlnjmHOgDSFK"
+  },
+  "Física": {
+    "Cinemática": "https://www.youtube.com/watch?v=0qLf8ivEDV4&list=PLzjR7HXQnrceNJ2pUl9afkCMkTubbvCbz",
+    "Dinâmica": "https://www.youtube.com/watch?v=oRoXaH7E2xI&list=PLzjR7HXQnrcdJSrrM2DbJ-LHuFwRR31Uc",
+    "Estática": "https://www.youtube.com/watch?v=46CYw-ZYI40&list=PLdTmZS7p8DVQtusF2xs-hl4mAt94RHOZ8",
+    "Gravitação Universal": "https://www.youtube.com/watch?v=-8140NsksEg&list=PLzjR7HXQnrcdm6lDtXnyBUkx5-neBQIE_",
+    "Hidrostática": "https://www.youtube.com/watch?v=EUEuBwxAFWE&list=PLnA_25HdDTRmNDVeuFOgzcBr5kfc9DAmD",
+    "Movimento Harmônico Simples": "https://www.youtube.com/watch?v=bEc1xlijYlY&list=PLNfWNKz4iEr8TzRvAiPsEYECLqu8epsHu",
+    "Ondulatória": "https://www.youtube.com/watch?v=0WeaGRPun94&list=PLzjR7HXQnrcdajHidI1DNX4xZkengbH1f",
+    "Óptica": "https://www.youtube.com/watch?v=H7IkvdBHgpk&list=PLzjR7HXQnrcdqSPfvOvU2Z2IGXfKRP0u3",
+    "Termologia": "https://www.youtube.com/watch?v=QUvmXOY2WvI&list=PLzjR7HXQnrccNvQPKqmf5DIgHIB2gEtv8",
+    "Eletrostática": "https://www.youtube.com/watch?v=6o3zDgWmBKw&list=PL8Oo5W5s-R0ojmm_DQowCv4Vc_7Qc-NTz",
+    "Eletrodinâmica": "https://www.youtube.com/watch?v=46nINK2nsX8&list=PLzjR7HXQnrccZoUGxqJuN2SFd83PH0yRz",
+    "Magnetismo": "https://www.youtube.com/watch?v=AFACIE-UH6A&list=PLzjR7HXQnrcd0_HOcaVJ5BNRdoIBy9A36",
+    "Análise Dimensional": "https://www.youtube.com/watch?v=z0kCk9DKmGs"
+  },
+  "Química": {
+    "Estudo da Matéria e Separação de Misturas": "https://www.youtube.com/watch?v=TOGXn2_mkzE&list=PLL5oEOCl6YVmyVru92LQ2baK96j0VMPif",
+    "Atomística e Tabela Periódica": "https://www.youtube.com/watch?v=A3sNlHNvql0&list=PL4If1xXbEdeNg-ArZHVgu0q2TqBxljQp0",
+    "Ligações Químicas e Forças Intermoleculares": "https://www.youtube.com/playlist?list=PL4If1xXbEdeMJn0z74Y798nyFZGWQwdWP",
+    "Radioatividade": "https://www.youtube.com/playlist?list=PLL5oEOCl6YVnK6pOj9bJOE7gap-E39k-c",
+    "Funções e Reações Inorgânicas": "https://www.youtube.com/watch?v=jjkVX909sr8&list=PL7uUJC3tSB3yq-2qc4_Zyofow0NVx7jZc",
+    "Estequiometria": "https://www.youtube.com/playlist?list=PLptlEZ4QWc8DdV61OS7v4AzbqdzQk7z39",
+    "Soluções": "https://www.youtube.com/playlist?list=PL4If1xXbEdeODzRm_hsJD-lDi9FAJix5s",
+    "Estudo dos Gases": "https://www.youtube.com/watch?v=gVCZjnOhxiw",
+    "Termoquímica": "https://www.youtube.com/watch?v=6dvw2QvJE0g",
+    "Cinética Química": "https://www.youtube.com/watch?v=ltJRR5v6l-g&list=PL7uUJC3tSB3w1CSlnfxYdDB7lGtu7-OWT",
+    "Equilíbrio Químico": "https://www.youtube.com/watch?v=s8oXpMcQWSY&list=PL7uUJC3tSB3xgFDDwIJhbq8uHQQ_YZkSM",
+    "Propriedades Coligativas": "https://www.youtube.com/watch?v=1nvxV8zYk8o&list=PL7uUJC3tSB3yvW1I9vSW5Bt-62t67LKoJ",
+    "Eletroquímica": "https://www.youtube.com/watch?v=IXS5EN6HH8k&list=PL7uUJC3tSB3wkUzPIQ0mVahpax6koblLy",
+    "Química Orgânica": "https://www.youtube.com/watch?v=ZpilLqOC7p4&list=PL7uUJC3tSB3xINPTt34jvq9dVxtloEJZi",
+    "Bioquímica": "https://www.youtube.com/watch?v=YhLjUhnAtN0&list=PLvhCw6-nBaLkyLEeQ-KiiYkQH6irz9O1W",
+    "Química Ambiental": "https://www.youtube.com/watch?v=vd_t6JUnLgs&list=PL4If1xXbEdePoF6AF3UojdJCn_FHudcBt"
+  }
+}
