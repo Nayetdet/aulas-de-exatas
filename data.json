@@ -1,20 +1,21 @@
 {
   "Matemática": {
     "Matemática Básica": "https://www.youtube.com/watch?v=az6OYFS7AUA&list=PLTPg64KdGgYgFpOFt2TETLdEuBB4fvxxf",
-    "Noções de Estatística": "https://www.youtube.com/watch?v=gibWiImVcOU&list=PL-LPJn0YTIEGuhRXW8TMsrwVvP9PvKy7Q",
+    "Noções de Estatística": "https://www.youtube.com/playlist?list=PLVRHLM62ZAMnuGVozCLOxKyA_ILHt4Ppq",
     "Conjuntos": "https://www.youtube.com/playlist?list=PLqDHcLUHag2f8wcFKIQ1dQ540rf8l8xGt",
-    "Funções": "https://www.youtube.com/watch?v=SPZqQ5qn3P0&list=PL6oFLDTrOyYiNx4HmlLQakGHTSizaCAIW",
-    "Geometria Plana": "https://www.youtube.com/watch?v=0CnUdzmpO8E&list=PLTPg64KdGgYhy8stGM4z2_Hzb3zTfA77Z",
-    "Trigonometria": "https://www.youtube.com/watch?v=4sTUs4ll3dI&list=PLEfwqyY2ox86JU-fviQa08fMH67W6oAKo",
-    "Geometria Espacial": "https://www.youtube.com/watch?v=v_PQnBk-8Mc&list=PLEfwqyY2ox87GYPpLcP1kv2Nt9xu0oBTy",
+    "Funções": "https://www.youtube.com/playlist?list=PL6oFLDTrOyYiNx4HmlLQakGHTSizaCAIW",
+    "Geometria Plana": "https://www.youtube.com/playlist?list=PLTPg64KdGgYhy8stGM4z2_Hzb3zTfA77Z",
+    "Trigonometria": "https://www.youtube.com/playlist?list=PLtjX2mCwXXQv0vXR8ekg3Y7eKk7NU7_Z2",
+    "Geometria Espacial": "https://www.youtube.com/playlist?list=PLEfwqyY2ox87GYPpLcP1kv2Nt9xu0oBTy",
     "Sequências": "https://www.youtube.com/playlist?list=PL8Oo5W5s-R0oPL7Q-1IDMuuDJMR-KO4K6",
-    "Análise Combinatória e Probabilidade": "https://www.youtube.com/watch?v=ZuukDbf4IY0&list=PL-LPJn0YTIEGvQsNqNbLt2FZ92QKOy9SJ",
-    "Matrizes e Sistemas Lineares": "https://www.youtube.com/watch?v=lZ9onrdpusA&list=PLEfwqyY2ox868TPa8vjL-QPfQlmtqRGa5",
+    "Análise Combinatória": "https://www.youtube.com/playlist?list=PLrOyM49ctTx-RnTkXYXB6mMwUsJWU2HIp",
+    "Probabilidade": "https://www.youtube.com/playlist?list=PLEfwqyY2ox85yFBHTW0UbXAvuaPULX2vs",
+    "Matrizes e Sistemas Lineares": "https://www.youtube.com/playlist?list=PLEfwqyY2ox868TPa8vjL-QPfQlmtqRGa5",
     "Geometria Analítica I": "https://www.youtube.com/playlist?list=PL-92zipZF0l3vRiP6UOwFXypIzNMwoeeF",
     "Geometria Analítica II": "https://www.youtube.com/playlist?list=PL-92zipZF0l3PL9cHnvPdqq-2RnlwAqwz",
-    "Polinômios": "https://www.youtube.com/watch?v=RevbMgyMQmg&list=PLEfwqyY2ox84iIVoCHP8JjObsXQtVjh2k",
-    "Binômio de Newton": "https://www.youtube.com/watch?v=YPCemH1cCYw&list=PL8x1NTjJwLLzdvCpoWEjhm3sGo_PcvdfX",
-    "Números Complexos": "https://www.youtube.com/watch?v=7E7mypyLyoM&list=PLEfwqyY2ox853NZdP0oJNXlnjmHOgDSFK"
+    "Números Complexos": "https://www.youtube.com/playlist?list=PLEfwqyY2ox853NZdP0oJNXlnjmHOgDSFK",
+    "Polinômios": "https://www.youtube.com/playlist?list=PLEfwqyY2ox84iIVoCHP8JjObsXQtVjh2k",
+    "Binômio de Newton": "https://www.youtube.com/playlist?list=PLN2P645IqcjMieEq7WOZhrKGh-XnyVfT_"
   },
   "Física": {
     "Cinemática": "https://www.youtube.com/watch?v=0qLf8ivEDV4&list=PLzjR7HXQnrceNJ2pUl9afkCMkTubbvCbz",
